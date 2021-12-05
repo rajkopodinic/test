@@ -24,7 +24,7 @@ export default function Streams({ streams }) {
     return (
         <div className="flex flex-col min-h-screen p-10 bg-gray-200 w-4/5 text-gray-900">
             <Head>
-                <title>Live TV - Streamss</title>
+                <title>Live TV - Streams</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
